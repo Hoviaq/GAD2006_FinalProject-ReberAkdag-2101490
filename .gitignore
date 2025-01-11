@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/.vsconfig
+/GAD_2006_Final.sln
+/.vs
+/Binaries
+/Build
+/DerivedDataCache
+/Intermediate
+/Saved
